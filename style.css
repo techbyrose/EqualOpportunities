@@ -1,0 +1,63 @@
+body{
+  background-color: bisque;
+}
+header{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+
+  text-align: center;
+  background: url(images/oceanBanner.jpg);
+  background-size: cover;
+  padding: 20px 0px 20px 0px;
+  border-radius: 10px;
+  background-position: 0px;
+}
+article{
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+header{
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+footer{
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+h1{
+  font-size: 80px;
+  color: aliceblue;
+  text-shadow:
+    -3px -3px 0 #000,
+    3px -3px 0 #000,
+    -3px 3px 0 #000,
+    3px 3px 0 #000;
+}
+img{
+  max-width: 500px;
+  border-radius: 10px;
+}
+.headerList{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+.headerLink{
+  color: aliceblue;
+}
